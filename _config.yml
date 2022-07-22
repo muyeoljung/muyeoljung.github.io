@@ -1,3 +1,4 @@
 name: Muyeol Jung / Blog
 markdown: kramdown
+theme: minima
 permalink: /blog/:year/:month/:day/:title
